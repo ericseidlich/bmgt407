@@ -1,0 +1,114 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #d34545;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 49px;
+  top: 70px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 84px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 818px;
+  top: 67px;
+}
+.home-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1108px;
+  position: absolute;
+  left: 164px;
+  top: 366px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.call-to-action-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 208px;
+  height: 93px;
+  position: absolute;
+  left: 616px;
+  top: 605px;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 180px;
+  height: 57px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  margin: -70px 0 0 0;
+  color: #191818;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 36px;
+}

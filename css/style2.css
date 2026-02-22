@@ -1,0 +1,92 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #d34545;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 49px;
+  top: 70px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 84px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 818px;
+  top: 67px;
+}
+.home-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 986px;
+  position: absolute;
+  left: 49px;
+  top: 255px;
+}
+.bmgt-407-info-systems-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-majors-this-class-happens-on-thursday-s {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
